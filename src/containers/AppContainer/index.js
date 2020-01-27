@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+function AppContainer() {
   return (
     <main>
       <h1>App</h1>
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppContainer;
